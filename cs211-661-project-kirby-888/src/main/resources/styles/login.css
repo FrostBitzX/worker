@@ -1,0 +1,10 @@
+.background {
+    -fx-background-image: url("../image/login-bg.jpg");
+    -fx-background-size: 800px 600px;
+
+}
+
+.button-login {
+    -fx-border-radius: 5px;
+    -fx-background: #7CDEF4;
+}
